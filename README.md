@@ -259,7 +259,7 @@ I confirm that this project is my original work. All SQL scripts, schema designs
 * PostgreSQL Official Documentation
 * ISO/IEC SQL Standards
 * Elmasri & Navathe – *Fundamentals of Database Systems*
-* [SQL Window Function ](https://www.youtube.com/watch?v=Ww71knvhQ-s)
+* [SQL Window Function video](https://www.youtube.com/watch?v=Ww71knvhQ-s)
 
 ---
 
